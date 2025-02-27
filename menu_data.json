@@ -1,0 +1,629 @@
+{
+    "categories": [
+        {
+            "name": "Breakfast",
+            "products": [
+                {
+                    "id": 0,
+                    "name": "Bacon, Egg & Cheese Biscuit",
+                    "calories": 460,
+                    "protein": 17,
+                    "carbs": 39,
+                    "fat": 26,
+                    "price": 4.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0085_BaconEggCheeseBiscuit_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 1,
+                    "name": "Egg McMuffin",
+                    "calories": 310,
+                    "protein": 17,
+                    "carbs": 30,
+                    "fat": 13,
+                    "price": 4.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0046_EggMcMuffin_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 2,
+                    "name": "Sausage McMuffin",
+                    "calories": 400,
+                    "protein": 14,
+                    "carbs": 29,
+                    "fat": 26,
+                    "price": 1.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0078_SausageMcMuffin_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 3,
+                    "name": "Sausage McMuffin with Egg",
+                    "calories": 480,
+                    "protein": 20,
+                    "carbs": 30,
+                    "fat": 31,
+                    "price": 4.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0083_SausageEggMcMuffin_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 4,
+                    "name": "Sausage Biscuit",
+                    "calories": 460,
+                    "protein": 11,
+                    "carbs": 37,
+                    "fat": 30,
+                    "price": 1.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0062_SausageBiscuit_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 5,
+                    "name": "Sausage Biscuit with Egg",
+                    "calories": 530,
+                    "protein": 17,
+                    "carbs": 38,
+                    "fat": 35,
+                    "price": 4.89,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0092_SausageEggBiscuit_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 6,
+                    "name": "Bacon, Egg & Cheese McGriddles",
+                    "calories": 430,
+                    "protein": 17,
+                    "carbs": 44,
+                    "fat": 21,
+                    "price": 4.89,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201908_9839_BEC_McGriddle_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 7,
+                    "name": "Sausage McGriddles",
+                    "calories": 430,
+                    "protein": 11,
+                    "carbs": 41,
+                    "fat": 24,
+                    "price": 3.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201911_6110_SausageMcGriddle_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 8,
+                    "name": "Sausage, Egg & Cheese McGriddles",
+                    "calories": 550,
+                    "protein": 19,
+                    "carbs": 44,
+                    "fat": 33,
+                    "price": 4.89,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_9841_SausageEggCheeseMcGriddle_1564x1564-2:nutrition-calculator-tile"
+                },
+                {
+                    "id": 9,
+                    "name": "Big Breakfast",
+                    "calories": 1060,
+                    "protein": 26,
+                    "carbs": 131,
+                    "fat": 48,
+                    "price": 4.69,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0107_BigBreakfast._1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 10,
+                    "name": "Big Breakfast with Hotcakes",
+                    "calories": 1340,
+                    "protein": 36,
+                    "carbs": 158,
+                    "fat": 63,
+                    "price": 6.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202208_3590_BigBreakfast_HotCakes_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 11,
+                    "name": "Hotcakes",
+                    "calories": 580,
+                    "protein": 9,
+                    "carbs": 101,
+                    "fat": 15,
+                    "price": 3.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0031_3HotCakes_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 12,
+                    "name": "Hotcakes and Sausage",
+                    "calories": 770,
+                    "protein": 15,
+                    "carbs": 102,
+                    "fat": 33,
+                    "price": 4.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0032_3HotCakes_Sausage_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 13,
+                    "name": "Sausage Burrito",
+                    "calories": 310,
+                    "protein": 13,
+                    "carbs": 25,
+                    "fat": 17,
+                    "price": 2.89,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0334_SausageBurrito_Alt_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 14,
+                    "name": "Hash Browns",
+                    "calories": 140,
+                    "protein": 2,
+                    "carbs": 18,
+                    "fat": 8,
+                    "price": 2.29,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0035_HashBrowns_Upright_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 15,
+                    "name": "Fruit & Maple Oatmeal",
+                    "calories": 320,
+                    "protein": 6,
+                    "carbs": 64,
+                    "fat": 4.5,
+                    "price": 2.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_1500_Oatmeal_Fruit_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 16,
+                    "name": "Egg McMuffin Meal",
+                    "calories": 455,
+                    "protein": 19,
+                    "carbs": 49,
+                    "fat": 21,
+                    "price": 7.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202007_0252_EVM_HB_EggMcMuffin_Coffee_Glass_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 17,
+                    "name": "Sausage McMuffin with Egg Meal",
+                    "calories": 625,
+                    "protein": 22,
+                    "carbs": 49,
+                    "fat": 39,
+                    "price": 7.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_3655_EVM_HB_SausageEggMcMuffin_Coffee_Glass_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 18,
+                    "name": "Sausage Biscuit with Egg Meal",
+                    "calories": 675,
+                    "protein": 19,
+                    "carbs": 57,
+                    "fat": 43,
+                    "price": 7.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202007_0251_EVM_HB_SausageEggBiscuit_Coffee_Glass_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 19,
+                    "name": "Bacon, Egg & Cheese Biscuit Meal",
+                    "calories": 605,
+                    "protein": 19,
+                    "carbs": 58,
+                    "fat": 34,
+                    "price": 6.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202104_0250_EVM_HB_BaconEggCheeseBiscuit_Coffee_Glass_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 20,
+                    "name": "Bacon, Egg & Cheese McGriddles Meal",
+                    "calories": 575,
+                    "protein": 19,
+                    "carbs": 63,
+                    "fat": 29,
+                    "price": 7.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_9840_EVM_HB_BaconEggCheeseMcGriddle_Coffee_Glass_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 21,
+                    "name": "Sausage, Egg & Cheese McGriddles Meal",
+                    "calories": 695,
+                    "protein": 21,
+                    "carbs": 63,
+                    "fat": 41,
+                    "price": 7.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_9842_EVM_HB_SausageEggCheeseMcGriddle_Coffee_Glass_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 22,
+                    "name": "Scrambled Eggs",
+                    "calories": 140,
+                    "protein": 13,
+                    "carbs": 1,
+                    "fat": 9,
+                    "price": 1.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_Ingredient_202110_03952-058__0030_ScrambledEggs_1564x1564:product-header-desktop?wid=782&hei=782&dpr=off"
+                },
+                {
+                    "id": 23,
+                    "name": "Chicken McGriddles",
+                    "calories": 380,
+                    "protein": 14,
+                    "carbs": 50,
+                    "fat": 14,
+                    "price": 2.00,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201908_4543_ChickenMcGriddle_1564x1564-1:product-header-desktop?wid=782&hei=782&dpr=off"
+                }
+            ]
+        },
+        {
+            "name": "Sandwiches",
+            "products": [
+                {
+                    "id": 24,
+                    "name": "Big Mac",
+                    "calories": 590,
+                    "protein": 25,
+                    "carbs": 45,
+                    "fat": 34,
+                    "price": 4.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 25,
+                    "name": "Big Mac (3 patties)",
+                    "calories": 680,
+                    "protein": 32,
+                    "carbs": 45,
+                    "fat": 41,
+                    "price": 5.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 26,
+                    "name": "Big Mac (4 patties)",
+                    "calories": 770,
+                    "protein": 39,
+                    "carbs": 45,
+                    "fat": 48,
+                    "price": 6.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 27,
+                    "name": "McCrispy",
+                    "calories": 470,
+                    "protein": 26,
+                    "carbs": 46,
+                    "fat": 20,
+                    "price": 4.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0383_CrispyChickenSandwich_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 28,
+                    "name": "Deluxe McCrispy",
+                    "calories": 530,
+                    "protein": 27,
+                    "carbs": 48,
+                    "fat": 26,
+                    "price": 4.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0370_DeluxeCrispyChicken_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 29,
+                    "name": "Spicy McCrispy",
+                    "calories": 530,
+                    "protein": 27,
+                    "carbs": 48,
+                    "fat": 26,
+                    "price": 4.69,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0116_SpicyCrispyChicken_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 30,
+                    "name": "Deluxe Spicy McCrispy",
+                    "calories": 530,
+                    "protein": 27,
+                    "carbs": 49,
+                    "fat": 26,
+                    "price": 5.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202104_0100_DeluxeSpicyCrispyChickenSandwich_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 31,
+                    "name": "Bacon Quarter Pounder with Cheese",
+                    "calories": 630,
+                    "protein": 36,
+                    "carbs": 43,
+                    "fat": 35,
+                    "price": 6.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_4295-005_BaconQPC_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 32,
+                    "name": "Quarter Pounder with Cheese",
+                    "calories": 520,
+                    "protein": 30,
+                    "carbs": 42,
+                    "fat": 26,
+                    "price": 4.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 33,
+                    "name": "Double Bacon Quarter Pounder with Cheese",
+                    "calories": 850,
+                    "protein": 54,
+                    "carbs": 44,
+                    "fat": 51,
+                    "price": 7.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202201_4333-005_DoubleQuarterPounderBaconCheese_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 34,
+                    "name": "Double Quarter Pounder with Cheese",
+                    "calories": 740,
+                    "protein": 48,
+                    "carbs": 43,
+                    "fat": 42,
+                    "price": 6.29,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_3426-005_DoubleQuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 35,
+                    "name": "Double Quarter Pounder with Cheese (3 patties)",
+                    "calories": 960,
+                    "protein": 66.5,
+                    "carbs": 43.5,
+                    "fat": 58,
+                    "price": 7.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_3426-005_DoubleQuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 36,
+                    "name": "Double Quarter Pounder with Cheese (4 patties)",
+                    "calories": 1180,
+                    "protein": 85,
+                    "carbs": 44,
+                    "fat": 76,
+                    "price": 9.29,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_3426-005_DoubleQuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 37,
+                    "name": "Cheeseburger",
+                    "calories": 300,
+                    "protein": 15,
+                    "carbs": 31,
+                    "fat": 13,
+                    "price": 1.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0003-999_CheeseburgerAlt_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 38,
+                    "name": "Double Cheeseburger",
+                    "calories": 440,
+                    "protein": 25,
+                    "carbs": 34,
+                    "fat": 24,
+                    "price": 3.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0004-999_DoubleCheeseburger_Alt_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 39,
+                    "name": "Double Cheeseburger (3 patties)",
+                    "calories": 540,
+                    "protein": 33,
+                    "carbs": 35,
+                    "fat": 31,
+                    "price": 4.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0004-999_DoubleCheeseburger_Alt_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 40,
+                    "name": "Double Cheeseburger (4 patties)",
+                    "calories": 640,
+                    "protein": 41,
+                    "carbs": 36,
+                    "fat": 38,
+                    "price": 5.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0004-999_DoubleCheeseburger_Alt_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 41,
+                    "name": "Hamburger",
+                    "calories": 250,
+                    "protein": 12,
+                    "carbs": 30,
+                    "fat": 9,
+                    "price": 1.69,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0001-999_Hamburger_Alt_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 42,
+                    "name": "Double Hamburger",
+                    "calories": 340,
+                    "protein": 20,
+                    "carbs": 30,
+                    "fat": 16,
+                    "price": 2.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_0002-111_DoubleHamburger_NYNoMustard_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 43,
+                    "name": "Double Hamburger (3 patties)",
+                    "calories": 440,
+                    "protein": 28,
+                    "carbs": 31,
+                    "fat": 23,
+                    "price": 3.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_0002-111_DoubleHamburger_NYNoMustard_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 44,
+                    "name": "Double Hamburger (4 patties)",
+                    "calories": 540,
+                    "protein": 36,
+                    "carbs": 32,
+                    "fat": 30,
+                    "price": 4.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_0002-111_DoubleHamburger_NYNoMustard_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 45,
+                    "name": "Triple Cheeseburger",
+                    "calories": 530,
+                    "protein": 32,
+                    "carbs": 33,
+                    "fat": 31,
+                    "price": 4.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202302_0780-999_TripleCheeseburger_Alt_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 46,
+                    "name": "Triple Cheeseburger (4 patties)",
+                    "calories": 630,
+                    "protein": 40,
+                    "carbs": 34,
+                    "fat": 38,
+                    "price": 5.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202302_0780-999_TripleCheeseburger_Alt_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 47,
+                    "name": "Quarter Pounder with Cheese Deluxe",
+                    "calories": 630,
+                    "protein": 30,
+                    "carbs": 44,
+                    "fat": 37,
+                    "price": 5.69,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202309_4282_QuarterPounderCheeseDeluxe_Shredded_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 48,
+                    "name": "Double Quarter Pounder with Cheese Deluxe",
+                    "calories": 850,
+                    "protein": 49,
+                    "carbs": 45,
+                    "fat": 53,
+                    "price": 6.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_3426-005_DoubleQuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile"
+                },
+                {
+                    "id": 49,
+                    "name": "Bacon McDouble",
+                    "calories": 460,
+                    "protein": 26,
+                    "carbs": 32,
+                    "fat": 26,
+                    "price": 3.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_1043-999_BaconMcDouble_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 50,
+                    "name": "Bacon McDouble (3 patties)",
+                    "calories": 560,
+                    "protein": 34,
+                    "carbs": 33,
+                    "fat": 33,
+                    "price": 4.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_1043-999_BaconMcDouble_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 51,
+                    "name": "Bacon McDouble (4 patties)",
+                    "calories": 660,
+                    "protein": 42,
+                    "carbs": 34,
+                    "fat": 40,
+                    "price": 5.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_1043-999_BaconMcDouble_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 52,
+                    "name": "Daily Double",
+                    "calories": 490,
+                    "protein": 22,
+                    "carbs": 30,
+                    "fat": 31,
+                    "price": 3.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202307_5101-999_DailyDouble_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 53,
+                    "name": "Filet-O-Fish",
+                    "calories": 380,
+                    "protein": 16,
+                    "carbs": 38,
+                    "fat": 19,
+                    "price": 4.89,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_5926-999_Filet-O-Fish_HalfSlice_Alt_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 54,
+                    "name": "Double Filet-O-Fish",
+                    "calories": 530,
+                    "protein": 26,
+                    "carbs": 48,
+                    "fat": 26,
+                    "price": 6.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202401_3933-999_DoubleFilet-O-Fish_WholeSlice_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 55,
+                    "name": "McChicken",
+                    "calories": 390,
+                    "protein": 14,
+                    "carbs": 38,
+                    "fat": 21,
+                    "price": 1.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_4314-999_McChicken_McValue_1564x1564:nutrition-calculator-tile"
+                }
+            ]
+        },
+        {
+            "name": "McNuggets",
+            "products": [
+                {
+                    "id": 56,
+                    "name": "4 pc. Chicken McNuggets",
+                    "calories": 170,
+                    "protein": 9,
+                    "carbs": 10,
+                    "fat": 10,
+                    "price": 2.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202006_0483_4McNuggets_Stacked_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 57,
+                    "name": "6 pc. Chicken McNuggets",
+                    "calories": 250,
+                    "protein": 14,
+                    "carbs": 15,
+                    "fat": 15,
+                    "price": 3.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0060_6McNuggets_Broken_McValue_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 58,
+                    "name": "10 pc. Chicken McNuggets",
+                    "calories": 410,
+                    "protein": 23,
+                    "carbs": 26,
+                    "fat": 24,
+                    "price": 4.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202208_5280_10McNuggets_Stacked_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 59,
+                    "name": "20 pc. Chicken McNuggets",
+                    "calories": 830,
+                    "protein": 46,
+                    "carbs": 51,
+                    "fat": 49,
+                    "price": 6.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202008_0061_20McNuggets_Stacked_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 60,
+                    "name": "40 pc. Chicken McNuggets",
+                    "calories": 1650,
+                    "protein": 92,
+                    "carbs": 102,
+                    "fat": 98,
+                    "price": 13.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202208_1332_40McNuggets_1564x1564?wid=1000&hei=1000&dpr=off"
+                }
+            ]
+        }
+    ]
+}

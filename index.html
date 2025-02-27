@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>McDonald's Menu Sort</title>
+    <link rel="stylesheet" href="styles.css"></style>
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+</head>
+<body>
+    <h1 id="titleHeader">McDonald's Menu 🍟</h1>
+
+    <div id=sortContainer>
+        <div class="sortButton" data-key="price" onclick="sort(`price`)">Price</div>
+        <div class="sortButton" data-key="calories" onclick="sort(`calories`)">Calories</div>
+        <div class="sortButton" data-key="protein" onclick="sort(`protein`)">Protein</div>
+        <div class="sortButton" data-key="carbs" onclick="sort(`carbs`)">Carbs</div>
+        <div class="sortButton" data-key="fat" onclick="sort(`fat`)">Fat</div>
+        <div class="sortButton" data-key="ppc" onclick="sort(`ppc`)">Protein/Cal</div>
+        <div class="sortButton" data-key="ppd" onclick="sort(`ppd`)">Protein/$</div>
+    </div>
+
+    <div id="menuContainer"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

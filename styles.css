@@ -1,0 +1,95 @@
+body{
+    background-color: hsl(0, 0%, 95%);
+    font-family: Helvetica;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    user-select: none;
+    margin: 0;
+}
+#titleHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: hsl(0, 100%, 40%);
+    width: 100%;
+    height: 100px;
+    margin: 0;
+}
+#sortContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(56, 100%, 55%);
+    width: 100%;
+    height: 50px;
+}
+.sortButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: hsl(0, 100%, 40%);
+    padding: 10px;
+    margin: 5px;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 25px;
+}
+.sortButton:hover{
+    transition: all 0.2s ease-in-out;
+    background-color: hsl(0, 100%, 30%);
+}
+#menuContainer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.sortButton.active{
+    background-color: hsl(0, 100%, 20%);
+    border: solid 5px black;
+}
+.menuItem{
+    display: flex;
+    border: solid, 5px, hsl(0, 100%, 40%);
+    background-color: hsla(0, 100%, 40%, 0.5);
+    padding: 15px;
+    min-width: 500px;
+    height: 250px;
+    margin: 3px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+.menuItem:hover{
+    background-color: hsla(0, 100%, 40%, 0.6);
+}
+.productText{
+    font-size: 1.5em;
+    color: white;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    max-width: 100%;
+    text-decoration: underline;
+}
+.productImgContainer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.productImg{
+    display: flex-start;
+    width: 200px;
+    border-radius: 25px;
+}
+.priceText{
+    font-size: 1.4em;
+    color: white;
+    margin-bottom: 5px;
+    max-width: 50%;
+    text-decoration: underline dotted;
+}
+.calorieText, .proteinText, .carbText, .fatText, .ppcText, .ppdText{
+    font-size: 1.25em;
+}
