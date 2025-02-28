@@ -624,6 +624,166 @@
                     "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202208_1332_40McNuggets_1564x1564?wid=1000&hei=1000&dpr=off"
                 }
             ]
+        },
+        {
+            "name": "McValue",
+            "products": [
+                {
+                    "id": 61,
+                    "name": "Double Cheeseburger (McValue)",
+                    "calories": 880,
+                    "protein": 50,
+                    "carbs": 68,
+                    "fat": 48,
+                    "price": 4.39,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0004-999_DoubleCheeseburger_Alt_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 62,
+                    "name": "McChicken (McValue)",
+                    "calories": 780,
+                    "protein": 28,
+                    "carbs": 76,
+                    "fat": 42,
+                    "price": 2.99,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_4314-999_McChicken_McValue_1564x1564:nutrition-calculator-tile"
+                },
+                {
+                    "id": 63,
+                    "name": "6 pc. Chicken McNuggets (McValue)",
+                    "calories": 500,
+                    "protein": 28,
+                    "carbs": 30,
+                    "fat": 30,
+                    "price": 4.49,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0060_6McNuggets_Broken_McValue_1564x1564?wid=1000&hei=1000&dpr=off"
+                }
+            ]
+        },
+        {
+            "name": "Drinks",
+            "products": [
+                {
+                    "id": 64,
+                    "name": "Vanilla Shake (Small)",
+                    "calories": 480,
+                    "protein": 10,
+                    "carbs": 80,
+                    "fat": 13,
+                    "price": 3.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1598_MediumVanillaShake_Glass_A1_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 65,
+                    "name": "Vanilla Shake (Medium)",
+                    "calories": 570,
+                    "protein": 12,
+                    "carbs": 97,
+                    "fat": 15,
+                    "price": 4.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1598_MediumVanillaShake_Glass_A1_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 66,
+                    "name": "Vanilla Shake (Large)",
+                    "calories": 780,
+                    "protein": 17,
+                    "carbs": 133,
+                    "fat": 19,
+                    "price": 4.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1598_MediumVanillaShake_Glass_A1_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 67,
+                    "name": "Chocolate Shake (Small)",
+                    "calories": 520,
+                    "protein": 12,
+                    "carbs": 85,
+                    "fat": 14,
+                    "price": 3.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_201907_1509_MediumChocolateShake_Glass_A1_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 68,
+                    "name": "Chocolate Shake (Medium)",
+                    "calories": 650,
+                    "protein": 15,
+                    "carbs": 107,
+                    "fat": 17,
+                    "price": 4.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_201907_1509_MediumChocolateShake_Glass_A1_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 69,
+                    "name": "Chocolate Shake (Large)",
+                    "calories": 800,
+                    "protein": 18,
+                    "carbs": 134,
+                    "fat": 20,
+                    "price": 4.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_201907_1509_MediumChocolateShake_Glass_A1_1564x1564?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 70,
+                    "name": "Strawberry Shake (Small)",
+                    "calories": 470,
+                    "protein": 10,
+                    "carbs": 77,
+                    "fat": 13,
+                    "price": 3.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1513_MediumStrawberryShake_Glass_A1_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 71,
+                    "name": "Strawberry Shake (Medium)",
+                    "calories": 600,
+                    "protein": 13,
+                    "carbs": 99,
+                    "fat": 16,
+                    "price": 4.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1513_MediumStrawberryShake_Glass_A1_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 72,
+                    "name": "Strawberry Shake (Large)",
+                    "calories": 850,
+                    "protein": 19,
+                    "carbs": 143,
+                    "fat": 21,
+                    "price": 4.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1513_MediumStrawberryShake_Glass_A1_1564x1564-1?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 73,
+                    "name": "Shamrock Shake (Small)",
+                    "calories": 500,
+                    "protein": 11,
+                    "carbs": 82,
+                    "fat": 14,
+                    "price": 3.19,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202501_ShamrockShakePCP-PDP?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 74,
+                    "name": "Shamrock Shake (Medium)",
+                    "calories": 540,
+                    "protein": 12,
+                    "carbs": 87,
+                    "fat": 15,
+                    "price": 4.59,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202501_ShamrockShakePCP-PDP?wid=1000&hei=1000&dpr=off"
+                },
+                {
+                    "id": 75,
+                    "name": "Shamrock Shake (Large)",
+                    "calories": 800,
+                    "protein": 18,
+                    "carbs": 135,
+                    "fat": 20,
+                    "price": 4.79,
+                    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202501_ShamrockShakePCP-PDP?wid=1000&hei=1000&dpr=off"
+                }
+            ]
         }
     ]
 }
